@@ -1,0 +1,11 @@
+{
+  "app_name": "MCP GitHub Test",
+  "version": "1.0.0",
+  "environment": "test",
+  "debug": true,
+  "features": {
+    "file_operations": true,
+    "branch_operations": true,
+    "search_operations": true
+  }
+}
